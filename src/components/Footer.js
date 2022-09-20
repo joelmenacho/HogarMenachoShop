@@ -18,7 +18,6 @@ const Footer = () => {
                         Desing by | &nbsp;
                         <a
                             href="https://www.linkedin.com/in/joelmenachoa/"
-                            target="_blank"
                             rel="noreferrer"
                         >
                             Joel Menacho
